@@ -4,7 +4,7 @@ This is my home page! My name is Jonathan Mai and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is [jmai123](http://github.com/jmai123).
+My GitHub page is [jmai123](http://jmai123.github.io).
 
 ### CPSC 120
 
